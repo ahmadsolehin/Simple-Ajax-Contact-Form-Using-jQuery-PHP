@@ -6,4 +6,6 @@
 
 <li>  you should be able to pull it off if you are bit familiar with HTML, PHP and jQuery.</li>
 
-<li> Have a look at the picture below, this is how our contact form going to look at the end. We will have input fields as shown below, you can later add-remove other fields as per requirements of your HTML form.
+<li> Have a look at the picture below, this is how our contact form going to look at the end.</li>
+
+<li> We will have input fields as shown below, you can later add-remove other fields as per requirements of your HTML form.
