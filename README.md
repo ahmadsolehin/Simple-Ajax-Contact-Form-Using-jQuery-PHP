@@ -38,5 +38,6 @@
 
 ## jquery ajax
 
-Now it’s time to write some jQuery code for the contact page. Before we start, make sure you have included jQuery library within the <HEAD> section of your HTML document, without it jQuery code doesn’t work.
+<li> Now it’s time to write some jQuery code for the contact page. </li>
+<li> Before we start, make sure you have included jQuery library within the <HEAD> section of your HTML document, without it jQuery code doesn’t work. </li>
 
