@@ -9,7 +9,9 @@
 <li> Have a look at the picture below, this is how our contact form going to look at the end.</li>
 
 <li> We will have input fields as shown below, you can later add-remove other fields as per requirements of your HTML form.</li>
+
 <br>
+
 ![nn](https://user-images.githubusercontent.com/12325386/29163657-b626479e-7def-11e7-9629-298f958acc09.JPG)
 
 
