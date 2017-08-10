@@ -29,3 +29,5 @@
 
 ## form style
 
+You can style your HTML form with CSS, you can either create a separate CSS or include the code within the <head></head> section of your page. I personally use DevTool in chrome browser and Firebug in Firefox browser, these tools allow me to edit, debug, and monitor CSS, HTML and JavaScript in realtime. If you haven’t used these tools before, you should definitely learn to use them, they are lifesavers.
+
