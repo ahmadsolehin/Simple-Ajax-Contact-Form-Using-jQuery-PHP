@@ -83,3 +83,6 @@
 
 
 ## PHP Email
+
+Below is our PHP code for the (contact_me.php), the file is needed to send email to the recipient, as well as respond back to user in the event of success or failure. It receives POST data from the contact page, its good idea to sanitize the data using PHP filter_var(), and then again we server-side validate the variables before we proceed with PHP email. As you can see I have used PHP json_encode() to return JSON encoded data to output success or error messages, which will be grabbed and parsed by jQuery.
+
