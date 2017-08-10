@@ -61,3 +61,8 @@
 <li> If you notice the submit button ID in our HTML form above, you will realize that we are actually attaching the click event to the button. </li> 
 <li> When a user clicks the button, the event gets triggered, executing all the code within it. </li>
 
+
+<br>
+
+
+![nn](https://user-images.githubusercontent.com/12325386/29166053-90b2facc-7df7-11e7-81dc-f8f72475be34.JPG)
