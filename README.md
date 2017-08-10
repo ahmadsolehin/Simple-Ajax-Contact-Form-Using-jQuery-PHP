@@ -96,3 +96,14 @@
 
 
 ![nn](https://user-images.githubusercontent.com/12325386/29166497-284d1128-7df9-11e7-8373-43a7380d43cd.JPG)
+
+
+
+
+
+
+
+
+That’s it! we now have a neat looking Ajax based contact form. I hope you can now be able to create your own by taking examples from here, or you can just download the entire code from link below and integrate it on your website right away, please note jQuery may not support old Internet Explorers, good luck!
+
+
