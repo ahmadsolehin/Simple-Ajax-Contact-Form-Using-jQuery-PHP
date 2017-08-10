@@ -35,3 +35,8 @@
 
 <li> If you haven’t used these tools before, you should definitely learn to use them, they are lifesavers. </li>
 
+
+## jquery ajax
+
+Now it’s time to write some jQuery code for the contact page. Before we start, make sure you have included jQuery library within the <HEAD> section of your HTML document, without it jQuery code doesn’t work.
+
