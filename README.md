@@ -74,3 +74,7 @@
 
 <li> If everything looks ok, we prepare the data to be sent to the server (contact_me.php), and then we simply send the data using jQuery $.post() method.</li>
 
+
+One more thing here is that after successful Ajax request, our code expects JSON data from the server, not plain text. You can read more about jQuery Ajax here. Once server returns JSON data, we will grab its message, determine the message type and output it accordingly. The results will be displayed within the div element called #result.
+
+
