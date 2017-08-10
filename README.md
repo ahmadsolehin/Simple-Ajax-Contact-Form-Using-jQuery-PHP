@@ -13,6 +13,10 @@
 
 ## Mark up
 
-Let’s start coding our contact page, we start by adding some input fields, you can review our code below. A regular contact page contains name, email, phone and message fields, you may add other fields like check-boxes, radio buttons and select-boxes as per your requirements for the contact form.
+<li> Let’s start coding our contact page, we start by adding some input fields, you can review our code below. </li>
+
+<li> A regular contact page contains name, email, phone and message fields, you may add other fields like check-boxes, radio buttons and select-boxes as per your requirements for the contact form. </li>
+
+
 
 
