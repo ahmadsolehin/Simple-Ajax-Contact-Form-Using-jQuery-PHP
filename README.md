@@ -8,4 +8,11 @@
 
 <li> Have a look at the picture below, this is how our contact form going to look at the end.</li>
 
-<li> We will have input fields as shown below, you can later add-remove other fields as per requirements of your HTML form.
+<li> We will have input fields as shown below, you can later add-remove other fields as per requirements of your HTML form.</li>
+
+
+## Mark up
+
+Let’s start coding our contact page, we start by adding some input fields, you can review our code below. A regular contact page contains name, email, phone and message fields, you may add other fields like check-boxes, radio buttons and select-boxes as per your requirements for the contact form.
+
+
