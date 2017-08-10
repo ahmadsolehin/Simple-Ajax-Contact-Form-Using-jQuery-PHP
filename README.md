@@ -49,6 +49,13 @@
 <li> Now it’s time to write some jQuery code for the contact page. </li>
 <li> Before we start, make sure you have included jQuery library within the <HEAD> section of your HTML document, without it jQuery code doesn’t work. </li>
 
+<br> 
+
+
+
+![nn](https://user-images.githubusercontent.com/12325386/29165993-52e0c4ea-7df7-11e7-937c-903ece313744.JPG)
+
+
 <li> Right after $(document).ready(), we have $(“#submit_btn”).click(). </li>
 
 <li> If you notice the submit button ID in our HTML form above, you will realize that we are actually attaching the click event to the button. </li> 
