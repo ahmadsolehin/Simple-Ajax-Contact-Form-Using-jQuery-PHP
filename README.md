@@ -104,6 +104,8 @@
 
 
 
-That’s it! we now have a neat looking Ajax based contact form. I hope you can now be able to create your own by taking examples from here, or you can just download the entire code from link below and integrate it on your website right away, please note jQuery may not support old Internet Explorers, good luck!
+<li> That’s it! we now have a neat looking Ajax based contact form. </li>
+
+<li> I hope you can now be able to create your own by taking examples from here, or you can just download the entire code from link below and integrate it on your website right away, please note jQuery may not support old Internet Explorers, good luck!
 
 
